@@ -227,3 +227,12 @@
     transform: rotate(0deg);
   }
 }
+
+.Navbar{
+  display: flex;
+  place-items: center;
+  gap: 20px;
+  height: 70px;
+  margin: 20px;
+  border-bottom: 2px solid white;
+}
