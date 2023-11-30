@@ -1,0 +1,24 @@
+.body{
+    display: flex;
+}
+.productDisplay{
+width: 50vw;
+background-color: aqua;
+}
+
+.mainPicture{
+height: 70vh;
+background-color: violet;
+}
+
+.listPictureContainer{
+height: 20vh;
+width: 50vw;
+background-color: gold;
+}
+
+.productDetails{
+    height: 90vh;
+    width: 50vw;
+    background-color: brown;
+}
